@@ -153,7 +153,6 @@ jupyter notebook spotify_labwork7_CSS330-2.ipynb
 ## 🎓 Course Information
 
 - **Course**: CSS330
-- **Assignment**: Lab Work 7
 - **Topic**: Machine Learning Classification
 
 ## 🤝 Contributing
