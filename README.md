@@ -150,14 +150,7 @@ jupyter notebook spotify_labwork7_CSS330-2.ipynb
 - **Log Loss**: Probabilistic confidence of predictions
 - **Confusion Matrix**: Detailed class-wise performance
 
-## 🎓 Course Information
 
-- **Course**: CSS330
-- **Topic**: Machine Learning Classification
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ## 📝 License
 
@@ -167,17 +160,6 @@ This project is created for educational purposes as part of CSS330 coursework.
 
 **Aitugan Shagyr**
 
-## 🙏 Acknowledgments
 
-- Spotify for providing the audio features dataset
-- Scikit-learn documentation and community
-- TensorFlow/Keras teams for deep learning frameworks
-- CSS330 course instructors
-
-## 📧 Contact
-
-For questions or feedback, please reach out through the course platform.
-
----
 
 **Note**: This project demonstrates practical application of machine learning techniques for music genre classification and serves as a learning resource for comparative model analysis.
