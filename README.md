@@ -130,7 +130,7 @@ jupyter notebook spotify_labwork7_CSS330-2.ipynb
 .
 ├── spotify_labwork7_CSS330-2.ipynb    # Main analysis notebook
 ├── README.md                           # Project documentation
-└── data/                               # Dataset directory (if applicable)
+└── spotify_songs.csv                               # Dataset directory 
 ```
 
 ## 🔍 Key Features
